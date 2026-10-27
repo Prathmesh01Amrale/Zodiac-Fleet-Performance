@@ -124,7 +124,7 @@ Measures are stored in `_Measures`. Core definitions:
 5. Review the assumed speed threshold, CO₂/fuel tolerance, cost-outlier threshold and Attention Score weights with stakeholders.
 6. Add month-over-month and rolling 30-day measures where time permits; document UAT results.
 
-## Interview preparation
+##Few Questions
 
 **Why a star schema?** It keeps vessel/date dimensions separate from facts, makes filter propagation predictable and supports reusable measures.
 
